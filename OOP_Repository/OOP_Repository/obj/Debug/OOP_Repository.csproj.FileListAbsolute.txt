@@ -1,0 +1,10 @@
+C:\Users\VurmakPC\source\repos\OOP_Repository\OOP_Repository\bin\Debug\OOP_Repository.exe.config
+C:\Users\VurmakPC\source\repos\OOP_Repository\OOP_Repository\bin\Debug\OOP_Repository.exe
+C:\Users\VurmakPC\source\repos\OOP_Repository\OOP_Repository\bin\Debug\OOP_Repository.pdb
+C:\Users\VurmakPC\source\repos\OOP_Repository\OOP_Repository\obj\Debug\OOP_Repository.csproj.AssemblyReference.cache
+C:\Users\VurmakPC\source\repos\OOP_Repository\OOP_Repository\obj\Debug\OOP_Repository.Form1.resources
+C:\Users\VurmakPC\source\repos\OOP_Repository\OOP_Repository\obj\Debug\OOP_Repository.Properties.Resources.resources
+C:\Users\VurmakPC\source\repos\OOP_Repository\OOP_Repository\obj\Debug\OOP_Repository.csproj.GenerateResource.cache
+C:\Users\VurmakPC\source\repos\OOP_Repository\OOP_Repository\obj\Debug\OOP_Repository.csproj.CoreCompileInputs.cache
+C:\Users\VurmakPC\source\repos\OOP_Repository\OOP_Repository\obj\Debug\OOP_Repository.exe
+C:\Users\VurmakPC\source\repos\OOP_Repository\OOP_Repository\obj\Debug\OOP_Repository.pdb
