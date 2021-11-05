@@ -1,0 +1,10 @@
+C:\Users\VurmakPC\source\repos\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\VurmakPC\source\repos\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\VurmakPC\source\repos\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\VurmakPC\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\VurmakPC\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.Form1.resources
+C:\Users\VurmakPC\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.Properties.Resources.resources
+C:\Users\VurmakPC\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.GenerateResource.cache
+C:\Users\VurmakPC\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\VurmakPC\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\VurmakPC\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
