@@ -1,0 +1,10 @@
+C:\Users\VurmakPC\source\repos\OOP_GenericList\OOP_GenericList\bin\Debug\OOP_GenericList.exe.config
+C:\Users\VurmakPC\source\repos\OOP_GenericList\OOP_GenericList\bin\Debug\OOP_GenericList.exe
+C:\Users\VurmakPC\source\repos\OOP_GenericList\OOP_GenericList\bin\Debug\OOP_GenericList.pdb
+C:\Users\VurmakPC\source\repos\OOP_GenericList\OOP_GenericList\obj\Debug\OOP_GenericList.csproj.AssemblyReference.cache
+C:\Users\VurmakPC\source\repos\OOP_GenericList\OOP_GenericList\obj\Debug\OOP_GenericList.Form1.resources
+C:\Users\VurmakPC\source\repos\OOP_GenericList\OOP_GenericList\obj\Debug\OOP_GenericList.Properties.Resources.resources
+C:\Users\VurmakPC\source\repos\OOP_GenericList\OOP_GenericList\obj\Debug\OOP_GenericList.csproj.GenerateResource.cache
+C:\Users\VurmakPC\source\repos\OOP_GenericList\OOP_GenericList\obj\Debug\OOP_GenericList.csproj.CoreCompileInputs.cache
+C:\Users\VurmakPC\source\repos\OOP_GenericList\OOP_GenericList\obj\Debug\OOP_GenericList.exe
+C:\Users\VurmakPC\source\repos\OOP_GenericList\OOP_GenericList\obj\Debug\OOP_GenericList.pdb
