@@ -1,0 +1,10 @@
+C:\Users\VurmakPC\source\repos\OOP_Interface\OOP_Interface\bin\Debug\OOP_Interface.exe.config
+C:\Users\VurmakPC\source\repos\OOP_Interface\OOP_Interface\bin\Debug\OOP_Interface.exe
+C:\Users\VurmakPC\source\repos\OOP_Interface\OOP_Interface\bin\Debug\OOP_Interface.pdb
+C:\Users\VurmakPC\source\repos\OOP_Interface\OOP_Interface\obj\Debug\OOP_Interface.csproj.AssemblyReference.cache
+C:\Users\VurmakPC\source\repos\OOP_Interface\OOP_Interface\obj\Debug\OOP_Interface.Form1.resources
+C:\Users\VurmakPC\source\repos\OOP_Interface\OOP_Interface\obj\Debug\OOP_Interface.Properties.Resources.resources
+C:\Users\VurmakPC\source\repos\OOP_Interface\OOP_Interface\obj\Debug\OOP_Interface.csproj.GenerateResource.cache
+C:\Users\VurmakPC\source\repos\OOP_Interface\OOP_Interface\obj\Debug\OOP_Interface.csproj.CoreCompileInputs.cache
+C:\Users\VurmakPC\source\repos\OOP_Interface\OOP_Interface\obj\Debug\OOP_Interface.exe
+C:\Users\VurmakPC\source\repos\OOP_Interface\OOP_Interface\obj\Debug\OOP_Interface.pdb
